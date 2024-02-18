@@ -1,0 +1,15 @@
+--users avalable api
+--front end grater than 100%
+--Downline blink
+--UL invitelink
+-news phone responsiveness
+--ban warning on both user and admin
+
+--withdraw request date
+
+
+  REMANING TASKS
+--admin number of people per shop code
+
+
+

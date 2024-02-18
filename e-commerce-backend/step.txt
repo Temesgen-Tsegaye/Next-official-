@@ -1,0 +1,4 @@
+query==>use-case==>controller==>route==>app
+
+use-case and entity with validation and index
+
